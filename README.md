@@ -9,3 +9,5 @@
 
 If you liked this repository, just hit the star button and follow me on github and linkedin as it gives me motivation to add new things super early.
 
+# LeetCode Questions
+<a href = "https://leetcode.com/problems/pascals-triangle-ii/"> Pascal's Triangle II </a>
